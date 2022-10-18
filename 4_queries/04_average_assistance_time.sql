@@ -1,0 +1,2 @@
+SELECT AVG(completed_at-started_at) as average_assisstance_request_duration
+FROM assistance_requests
